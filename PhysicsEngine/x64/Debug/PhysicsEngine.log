@@ -1,0 +1,6 @@
+﻿  System.cpp
+D:\Simulators\PhysicsEngine\PhysicsEngine\System.cpp(21,8): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\Simulators\PhysicsEngine\PhysicsEngine\System.cpp(31,8): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\Simulators\PhysicsEngine\PhysicsEngine\System.cpp(88,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Simulators\PhysicsEngine\PhysicsEngine\System.cpp(89,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PhysicsEngine.vcxproj -> D:\Simulators\PhysicsEngine\x64\Debug\PhysicsEngine.exe
