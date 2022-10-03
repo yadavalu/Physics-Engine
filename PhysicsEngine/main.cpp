@@ -1,7 +1,8 @@
 #include "Debug.h"
 
-#include "EDE.h"
 /*
+#include "DifferentialEquation/EDE.h"
+
 float dy_dx(float x, float y) {
 	return x + y;
 }
