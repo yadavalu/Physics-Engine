@@ -30,7 +30,7 @@
     <ClInclude Include="Debug.h">
       <Filter>Physics</Filter>
     </ClInclude>
-    <ClInclude Include="EDE.h">
+    <ClInclude Include="DifferentialEquation\EDE.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -44,7 +44,7 @@
     <ClCompile Include="System.cpp">
       <Filter>Physics</Filter>
     </ClCompile>
-    <ClCompile Include="EDE.cpp">
+    <ClCompile Include="DifferentialEquation\EDE.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,5 +1,5 @@
 #include "EDE.h"
-#include "Debug.h"
+#include "../Debug.h"
 
 EDE::EDE(std::function<float(float, float)> dy_dx, float px, float py)
 	: dy_dx(dy_dx)
